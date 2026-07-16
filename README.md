@@ -1,13 +1,10 @@
-
 <div align="center">
 
 # Rodolfo Carrillo
 
 **Mechatronics Engineer — Embedded Systems & IoT**
-
 <br/>
-
-**Software Developer • Embedded Systems (ESP32/STM32) • Cloud (AWS/ORACLE)**
+**Software Developer • Embedded Systems (ESP32/STM32) • Cloud (AWS/Oracle)**
 
 <br/>
 
@@ -29,4 +26,20 @@
 
 [**GitHub**](https://github.com/renozix) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/rodolfo-carrillo-almanzar) &nbsp;•&nbsp; [Email](mailto:rodolfofcoc@gmail.com)
 
-</div>
+<br/>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,ts,js&theme=dark" />
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,dynamodb,postgres,docker,git,githubactions&theme=dark" />
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,express,vscode,postman&theme=dark" />
+
+### Hardware & Embedded Platforms
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
