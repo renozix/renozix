@@ -11,7 +11,7 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renozix&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=renozix&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 <br/>
 
